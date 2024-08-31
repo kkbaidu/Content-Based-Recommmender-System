@@ -7,9 +7,6 @@ This repository contains a Jupyter Notebook that implements a neural network-bas
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Notebook Structure](#notebook-structure)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 <a name="overview"></a>
 
